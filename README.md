@@ -7,8 +7,11 @@ For Clock:
 
 # Features
 *Real-time digital clock display
+
 *Start, Stop, Reset stopwatch functionality
+
 *GUI using Tkinter (or any library you used)
+
 *User-friendly interface
 
 # Technologies Used
@@ -16,7 +19,9 @@ html
 
 # Use Cases
 *Display a real-time clock on a personal webpage
+
 *Track time for tasks, workouts, or study sessions
+
 *Use in portfolios as a mini-project
 
 # conclusion
